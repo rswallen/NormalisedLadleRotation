@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace NormalisedLadleRotation
 {
-    [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
+    [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, "1.1.0")]
     public class Plugin : BaseUnityPlugin
     {
         private void Awake()
